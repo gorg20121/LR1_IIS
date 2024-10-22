@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mainuser/Lab2/LR1_IIS/research/mlruns/655019580908424611/279890c71e744dceb78591ce1dd3261f/artifacts
+end_time: 1729610853260
+entry_point_name: ''
+experiment_id: '655019580908424611'
+lifecycle_stage: active
+run_id: 279890c71e744dceb78591ce1dd3261f
+run_name: baseline model
+run_uuid: 279890c71e744dceb78591ce1dd3261f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729610853171
+status: 3
+tags: []
+user_id: mainuser

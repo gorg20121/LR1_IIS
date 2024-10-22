@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mainuser/Lab2/LR1_IIS/research/mlruns/0/469e706303184e539d5b0acf7b6483d2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 469e706303184e539d5b0acf7b6483d2
+run_name: persistent-rat-964
+run_uuid: 469e706303184e539d5b0acf7b6483d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729609199172
+status: 1
+tags: []
+user_id: mainuser

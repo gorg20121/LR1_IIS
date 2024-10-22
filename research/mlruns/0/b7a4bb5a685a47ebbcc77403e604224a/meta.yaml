@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mainuser/Lab2/LR1_IIS/research/mlruns/0/b7a4bb5a685a47ebbcc77403e604224a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b7a4bb5a685a47ebbcc77403e604224a
+run_name: zealous-snake-234
+run_uuid: b7a4bb5a685a47ebbcc77403e604224a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729610853262
+status: 1
+tags: []
+user_id: mainuser

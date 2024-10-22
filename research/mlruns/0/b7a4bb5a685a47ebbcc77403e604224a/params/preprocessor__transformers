@@ -1,0 +1,1 @@
+[('num', StandardScaler(), ['Selling_Price', 'Driven_kms', 'Owner']), ('cat', OrdinalEncoder(handle_unknown='use_encoded_value', unknown_value=99999999), ['Car_Name', 'Fuel_Type', 'Selling_type', 'Transmission', 'Fuel_type'])]
