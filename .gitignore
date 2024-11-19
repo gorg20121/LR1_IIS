@@ -1,0 +1,11 @@
+*.csv
+
+*.plk
+
+.venv*
+
+.DS*
+
+mlflow/mlatrifacts/
+
+mlflow/mlruns.db
