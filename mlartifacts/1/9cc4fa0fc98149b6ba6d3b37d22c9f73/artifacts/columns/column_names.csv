@@ -1,0 +1,16 @@
+0
+num__Selling_Price
+num__Driven_kms
+cat__Car_Name
+cat__Fuel_Type
+cat__Selling_type
+cat__Transmission
+cat__Fuel_type
+poly__1
+poly__Selling_Price
+poly__Driven_kms
+poly__Selling_Price^2
+poly__Selling_Price Driven_kms
+poly__Driven_kms^2
+k_bin__Selling_Price
+k_bin__Driven_kms
