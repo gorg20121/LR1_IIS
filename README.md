@@ -42,29 +42,23 @@ MLFlow UI будет доступен по адресу: http://127.0.0.1:5001
 Лучшая модель
 
 Лучшая модель, основанная на Random Forest, показала следующие результаты:
-	mae: 23.9282
-    mape: 1.5977
-    mse: 776.2754
+	mae: 0.61
+    mape: 0.24
+    mse: 1.01
 
-Гиперпараметры лучшей модели
-
-	•	n_estimators: 150
-	•	max_depth: 15
-	•	max_features: 0.8
 
 Выбранные признаки
 
 После применения SequentialFeatureSelector были отобраны следующие признаки:
 	•	Present_Price
 	•	Driven_kms
-	•	Year
 	•	Полиномиальные признаки для Present_Price и Driven_kms
 
 Run ID лучшего эксперимента
 
-	•	Run ID: 40ac79177965496cacf03df011d21d9d
+	•	Run ID: c500265b9eb94feb95050f7df2317783
 
-Модель была зарегистрирована как версия v2 в MLFlow Model Registry с именем car_modelrf.
+Модель была зарегистрирована как версия v3 в MLFlow Model Registry с именем Random Forest with OneHotEncoder .
 
 Файлы проекта
 
